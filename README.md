@@ -2,7 +2,7 @@
 
 # YouTube
 
-I used React JS for build this app.
+I used React JS and Material UI for build this app.
 
 ## Installation
 
