@@ -21,6 +21,8 @@ yarn start or npm start
 ```
 After that, you will see the app opened in your web navigator.
 
+## NOTES
+You can see the project in production here [YOUTUBE CLONE](https://youtube-clone-eh.netlify.app)
 
 ## Thank you
 I am available for any questions through the contact below
